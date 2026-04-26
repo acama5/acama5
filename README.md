@@ -4,12 +4,15 @@ I believe that a creative perspective is what keeps the "human" in technology. M
 
 Now, I am a current **Computer Science** student at the **University of Illinois Chicago** with a concentration in **Computer Systems**!
 
+```
 - 🌱 I’m currently exploring about binary exploitation, x86-64 assembly, and web security.
 - ⚡ I’m serving as a Web Administrator for Women in CyberSecurity chapter at UIC 
 - 🎨 Currently on creating a new art potfolio website
 - 📫 How to reach me at agcamargo05@gmail.com 
+```
 
-
-<ins>Technical Skills</ins>
-Languages | Python, C++, JavaScript (React)
+```
+<ins>Technical Skills</ins>\
+Languages | Python, C++, JavaScript (React)\
 Tools & Systems | Docker, GDB, Git/GitHub, Linux, Adobe Photoshop
+```
