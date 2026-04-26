@@ -12,7 +12,7 @@ Now, I am a current **Computer Science** student at the **University of Illinois
 ```
 
 ```
-<ins>Technical Skills</ins>  
+Technical Skills  
 Languages | Python, C++, JavaScript (React)  
 Tools & Systems | Docker, GDB, Git/GitHub, Linux, Adobe Photoshop
 ```
