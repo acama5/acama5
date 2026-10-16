@@ -7,7 +7,6 @@ Now, I am a current **Computer Science** student at the **University of Illinois
 ```
 - 🌱 I’m currently exploring about binary exploitation, x86-64 assembly, and web security.
 - ⚡ I’m serving as a Web Administrator for Women in CyberSecurity chapter at UIC 
-- 🎨 Currently on creating a new art potfolio website
 - 📫 How to reach me at agcamargo05@gmail.com 
 ```
 
